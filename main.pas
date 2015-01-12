@@ -19,9 +19,9 @@ end;
 
 procedure date_write(d: date);
 begin
-  write('day', d1.day);
-  write('m', d1.m);
-  write('y', d1.y);
+  writeln('day', d1.day);
+  writeln('m', d1.m);
+  writeln('y', d1.y);
 end;
 
 procedure date_write_compact(d: date);
