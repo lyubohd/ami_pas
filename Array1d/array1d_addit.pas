@@ -1,4 +1,4 @@
-program Lab_;
+program array1d_addit;
 
 const
   n = 3;
