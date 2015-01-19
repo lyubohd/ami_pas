@@ -1,4 +1,4 @@
-program records;
+program records_comp;
 
 type
   date = record
