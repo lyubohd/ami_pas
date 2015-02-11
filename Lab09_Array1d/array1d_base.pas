@@ -1,7 +1,7 @@
 program array1d_base;
 
 const
-  n = 3;
+  n = 4;
 
 type
   array1d = array[1..n] of integer;
